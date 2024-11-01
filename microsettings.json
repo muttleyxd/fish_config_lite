@@ -1,0 +1,9 @@
+{
+    "aspell": false,
+    "aspell.check": "off",
+    "autoclose": false,
+    "autosu": true,
+    "colorscheme": "geany",
+    "mkparents": true,
+    "parsecursor": true
+}
